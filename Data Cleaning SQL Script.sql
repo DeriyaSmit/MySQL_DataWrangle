@@ -12,7 +12,7 @@ select *,
 from layoffs_staging;
 
 -- Created another table (layoffs_staging2) same as layoffs_staging 
-CREATE TABLE `layoffs_staging` (
+CREATE TABLE `layoffs_staging2` (
   `company` text,
   `location` text,
   `industry` text,
