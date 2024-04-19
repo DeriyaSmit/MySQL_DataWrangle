@@ -1,4 +1,4 @@
-# SQL_Data_Cleaning
+# MySQL_DataWrangle 
 
 Implemented a robust data cleaning pipeline using Python and MySQL to ensure data integrity and accuracy for a CSV dataset. Key highlights include:
 
