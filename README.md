@@ -2,7 +2,6 @@
 
 Implemented a robust data cleaning pipeline using Python and MySQL to ensure data integrity and accuracy for a CSV dataset. Key highlights include:
 
-
 <br>1.**Data Loading and Backup**: Imported CSV data into MySQL database using Python script, ensuring data integrity and backup by creating a duplicate table for restoration purposes.
 <br>2.**Duplicate Identification:** Leveraged SQL's ROW_NUMBER function to identify duplicates across tables, enhancing data quality assurance measures.
 <br>3.**Table Transformation:** Engineered three distinct tables from the original and backup tables, incorporating an additional column for duplicate detection, facilitating efficient data analysis.
